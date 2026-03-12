@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 🇲🇦🚀
+# Hi, I'm Achraf ! 🇲🇦🚀
 
 ### 🎓 Future Engineer @ EMSI Casablanca (Anfa)
 Currently in my **1st Year of Engineering**, navigating the world of algorithms, low-level logic, and the occasional "vibe-coding" session.
@@ -22,7 +22,6 @@ Currently in my **1st Year of Engineering**, navigating the world of algorithms,
 
 * 🏫 **EMSI Casablanca (Anfa)**: Currently tackling Engineering Year 1.
 * 🎯 **Focus**: Mastering the fundamentals of Computer Science while building side projects.
-* 💡 **Philosophy**: If it compiles, we celebrate. If not, we debug (or vibe-code it until it does).
 
 ---
 
