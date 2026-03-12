@@ -1,29 +1,49 @@
-<h1 align="center">Hi 👋, I'm Achraf</h1>
-<h3 align="center">A Student at Ecole Marocaine des Ingenieurs</h3>
+# Hi, I'm [Your Name]! 🇲🇦🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axref-js&label=Profile%20views&color=0e75b6&style=flat" alt="axref-js" /> </p>
+### 🎓 Future Engineer @ EMSI Casablanca (Anfa)
+Currently in my **1st Year of Engineering**, navigating the world of algorithms, low-level logic, and the occasional "vibe-coding" session.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axref-js" alt="axref-js" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/axrftafirachet" target="blank"><img src="https://img.shields.io/twitter/follow/axrftafirachet?logo=twitter&style=for-the-badge" alt="axrftafirachet" /></a> </p>
+### 🛠 The Stack
 
-- 🌱 I’m currently learning **AI and Data science.**
+**The Foundations (Learning deep):**
+* 🧩 **C**: My gateway into the "how things work" phase.
+* 🌐 **Web**: HTML5 & CSS3 (Making things look pretty).
+* 🐍 **Python**: For scripting and logic.
+* 🍎 **Swift**: Exploring the Apple ecosystem.
 
-- 📫 How to reach me **atafirachet.prof@gmail.com**
+**The "Vibe Tech" (AI-Assisted Exploration):**
+* *I’m comfortable navigating larger stacks using AI and modern tools to bridge the gap between "I don't know this yet" and "It’s deployed."*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/axrftafirachet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axrftafirachet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/achraf tafirachet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achraf tafirachet" height="30" width="40" /></a>
-<a href="https://kaggle.com/achraftafirachet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="achraftafirachet" height="30" width="40" /></a>
-<a href="https://instagram.com/axref.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axref.js" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 📚 Education & Goals
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axref-js&show_icons=true&locale=en&layout=compact" alt="axref-js" /></p>
+* 🏫 **EMSI Casablanca (Anfa)**: Currently tackling Engineering Year 1.
+* 🎯 **Focus**: Mastering the fundamentals of Computer Science while building side projects.
+* 💡 **Philosophy**: If it compiles, we celebrate. If not, we debug (or vibe-code it until it does).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axref-js&show_icons=true&locale=en" alt="axref-js" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axref-js&" alt="axref-js" /></p>
+### 📊 GitHub Activity
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=dracula)
+
+---
+
+### ⚡ Quick Hits
+
+* 📍 **Base**: Casablanca, Morocco.
+* ☕ **Engineered by**: Moroccan Mint Tea & curiosity.
+* 🌱 **Current Mission**: Turning my C knowledge into something more complex than a calculator.
+
+---
+
+### 🤝 Connect with Me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/[YOUR-LINKEDIN])
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/[YOUR-INSTAGRAM])
+
+*"In theory, theory and practice are the same. In practice, they are not."*
