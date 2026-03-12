@@ -44,5 +44,6 @@ Currently in my **1st Year of Engineering**, navigating the world of algorithms,
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/achraf-tafirachet-27366838a/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/axref.js)
+[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/users/760409957358895104)
 
 *"In theory, theory and practice are the same. In practice, they are not."*
