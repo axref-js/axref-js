@@ -27,8 +27,8 @@ Currently in my **1st Year of Engineering**, navigating the world of algorithms,
 
 ### 📊 GitHub Activity
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=axref-js&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axref-js&layout=compact&theme=dracula)
 
 ---
 
